@@ -1,0 +1,14 @@
+{
+  "name": "movies",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node src/index.ts"
+  },
+  "author": "Hari prasad",
+  "license": "MIT",
+  "description": "NodeJS Movies - Where we do a lot of NodesJS related experiments",
+  "devDependencies": {
+    "@types/node": "^22.13.10"
+  }
+}
